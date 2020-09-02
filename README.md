@@ -29,7 +29,7 @@ allprojects {
      android:id="@+id/colorSlider"
      android:layout_width="match_parent"
      android:layout_height="wrap_content"
-     app:colorSeeds="@array/material_colors"
+     app:colorSeeds="@array/myColors"
      ... />
 ```
 
